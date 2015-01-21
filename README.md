@@ -1,6 +1,6 @@
 ## Integrate with ID.me
 
-We would like to see an integration with our OAuth 2.0 service using ruby. Ideally it would allow users to log in via ID.me, verify their credentials and then display the payload passed back to your application to the end user. In part of receving the payload from ID.me, there should be business logic that updates pricing of items in a shopping cart based on the verified affinity group. The way in which the data is presented is up to the discretion of you, as well as the overall design and flow.
+We would like to see an integration with our OAuth 2.0 service using ruby. Ideally it would allow users to log in via ID.me, verify their credentials and then display the payload passed back to your application to the end user. In part of receiving the payload from ID.me, there should be business logic that updates pricing of items in a shopping cart based on the verified affinity group. The way in which the data is presented is up to the discretion of you, as well as the overall design and flow.
 
 We will supply the test user accounts as well as the OAuth app ID and app secret.
 
