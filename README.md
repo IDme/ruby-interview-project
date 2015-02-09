@@ -14,5 +14,11 @@ Use your own email address so that you can manage the OAuth Application througho
 
 Once you have started the process, or are in need of any assistance, please feel free to reach out to [**awesomedev@id.me**](awesomedev@id.me)
 
+--
+
+### Deliverables
+
+Once you've completed the project, please email us at awesomedev@id.me with a public github link as well as the public URL where the project has been hosted.
+
 ### Resources
 - [**Developer Documentation for ID.me**](https://developer.id.me)
